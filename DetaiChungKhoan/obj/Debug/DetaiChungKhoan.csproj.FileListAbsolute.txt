@@ -1,0 +1,10 @@
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\bin\Debug\DetaiChungKhoan.exe.config
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\obj\Debug\DetaiChungKhoan.csprojResolveAssemblyReference.cache
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\obj\Debug\DetaiChungKhoan.Properties.Resources.resources
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\obj\Debug\DetaiChungKhoan.csproj.GenerateResource.Cache
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\bin\Debug\DetaiChungKhoan.exe
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\bin\Debug\DetaiChungKhoan.pdb
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\obj\Debug\DetaiChungKhoan.exe
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\obj\Debug\DetaiChungKhoan.pdb
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\obj\Debug\DetaiChungKhoan.btn_tapd.resources
+C:\Users\Lee Sang\OneDrive\Tài liệu\Visual Studio 2013\Projects\DetaiChungKhoan\DetaiChungKhoan\obj\Debug\DetaiChungKhoan.Form2.resources
